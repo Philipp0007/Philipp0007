@@ -11,3 +11,4 @@ def lol(amount, text=""):
         return lol(amount-1, text)
 
 lol(5)
+print("I should really practice my basic python skills more")

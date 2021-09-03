@@ -3,9 +3,11 @@ for i in range(3):
     u+=i
 print(u)
 
-def lol(text="", amount):
-    text+="lol "
-    if amount=<0:
+def lol(amount, text=""):
+    if amount <= 0:
         print(text)
     else:
-        return lol(text,amount-1)
+        text += "lol "
+        return lol(amount-1, text)
+
+lol(5)

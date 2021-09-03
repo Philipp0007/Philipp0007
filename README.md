@@ -1,8 +1,8 @@
 ### Hi there 👋
 - :mountain_snow: I'm Philipp, an Austrian process engineering student
 - :denmark: I'm currently doing an exchange at DTU in Denmark
-- :computer: I'm interested in modeling, simulating and controlling fermentation based processes
-- :snake: I'm hoping to deepen my knowledge in python as a tool to handle those processes in a smart way
+- :computer: I'm interested in modeling, simulating and controlling fermentation based processes and plants
+- :snake: I'm hoping to deepen my knowledge in python as a tool to handle these processes in a smart way
 - :flamingo: Fun fact: Flamingos can fly as fast as 56 km/h
 
 <!--

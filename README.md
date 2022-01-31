@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🏔️ I'm Philipp, an Austrian process engineering student
-- 🇩🇰 I'm currently doing an exchange at DTU in Denmark
+- 🇩🇰 I just arrived back to my home university TU Wien after an exchange at DTU in Denmark
 - 💻 I'm interested in modeling, simulating and controlling fermentation based processes and plants
 - 🐍 I'm hoping to deepen my knowledge in python as a tool to handle these processes in a smart way
 - 🏄 About me: I like to try out new sports, like this summer with surfing 
